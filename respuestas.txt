@@ -1,5 +1,7 @@
 Respuestas a las preguntas de la práctica 3
 1- ¿Cuál es el propósito de trabajar con múltiples ramas?
 Tener mayor flexibilidad a la hora de trabajar. Así podemos realizar cambios cuando tengamos una versión estable de nuestro programa sin que le afecte a esta.
+2- ¿Qué es una reorganización?
+Consiste en coger todos los cambios confirmados en una rama, y reaplicarlos sobre otra.
 3- ¿Cuál es la ventaja de reorganizar?
 Ofrece una mayor flexibilidad, ya que no se mezclan las ramas y podemos tener ambas ramas disponibles.
